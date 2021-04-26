@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Laptop          :DELL
 Device name	:DESKTOP-M61T8E8
 Processor	:Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz 2.00 GHz
@@ -9,3 +10,17 @@ Version	        :20H2
 OS build	:19042.867
 Experience	:Windows Feature Experience Pack 120.2212.551.0
 
+=======
+Laptop          :DELL
+Device name	:DESKTOP-M61T8E8
+Processor	:Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz 2.00 GHz
+Installed RAM	:4.00 GB
+System type	:64-bit operating system, x64-based processor
+Hard Disk       :1 TB
+Edition	        :Windows 10 Pro
+Version	        :20H2
+OS build	:19042.867
+Experience	:Windows Feature Experience Pack 120.2212.551.0
+agbfmgjhnb
+
+>>>>>>> 8591fd054893d6898699275df195096cbde107bc
